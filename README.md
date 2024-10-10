@@ -10,7 +10,7 @@ across different states for identifying adoption rate.
 3. Total BEV Vehicle & % of Total BEV Vehicles
 4. Total PHEV Vehicles & % of Total PHEV Vehicles
 # Chart Requirement
-1.Total Vehicles by Model Year (From 2010 onwards)
+1.Total Vehicles by Model Year (From 2010 onwards
 2.Total Vehicles by State
 3.Top 10 Vehicles by Make
 4.Total Vehicles by CAFV Eligibility
