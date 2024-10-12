@@ -6,7 +6,7 @@ It also helps us to determine average electric range of electric vehicles. Also 
 & percentage of both providing insights into dominance of fully electric & plug-in-hybrid models & it also let them know the geographical distribution of vehicle 
 across different states for identifying adoption rate.
 # KPI's Requirment
-1. Total Vehicles
+1. Total Vehicles.
 2. Avearge Electric Range
 3. Total BEV Vehicle & % of Total BEV Vehicles
 4. Total PHEV Vehicles & % of Total PHEV Vehicles
